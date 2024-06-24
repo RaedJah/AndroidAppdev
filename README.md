@@ -1,3 +1,3 @@
 # AndroidAppdev
 
-Android App Apk's
+List of Android App Projets made.
